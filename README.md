@@ -228,7 +228,7 @@ Si este software te resulta útil, por favor utiliza la siguiente referencia:
 ```bibtex
 @software{TFG_GUI_2025,
   author  = {Sergio Sánchez Ramos},
-  title   = {TFG_GUI — Sistema de detección y seguimiento con GUI},
+  title   = {TFG_GUI — Sistema de detección y seguimiento con GUI (YOLOv8 + ByteTrack/KCF + FastSAM)},
   year    = {2025},
   url     = {https://github.com/SergioSR02/TFG_GUI}
 }
