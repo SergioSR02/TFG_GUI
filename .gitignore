@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Entornos ---
+.venv/
+.env
+env/
+*.conda
+*.ipynb_checkpoints
+
+# --- Model weights ---
+*.pt
+*.pth
+*.onnx
+config/models/*.pt
+
+# --- Archivos del sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Otros ---
+*.log

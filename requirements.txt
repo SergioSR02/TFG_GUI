@@ -1,0 +1,15 @@
+torch>=2.3.0
+torchvision>=0.18.0
+ultralytics>=8.0.0
+ultralytics-thop>=2.0.0
+opencv-contrib-python>=4.10.0
+PySide6>=6.5
+shiboken6>=6.5
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.7
+scipy>=1.11
+supervision>=0.26
+tqdm>=4.66
+PyYAML>=6.0
+

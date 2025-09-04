@@ -1,0 +1,8 @@
+coco_weights: "config/models/yolov8n.pt"
+military_weights: "config/models/best.pt"
+
+device: "cuda"     
+half: true         
+imgsz: 640
+conf: 0.25
+iou: 0.45
